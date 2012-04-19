@@ -2,7 +2,7 @@
 # Spigot algorithm code to generate digits of Pi has been copied from http://davidbau.com/downloads/pi.py the original pi.py is att below
 
 
-TOTAL = 1000 # Parameter passed to the Pi digits generating function
+TOTAL = 50000 # Parameter passed to the Pi digits generating function
 WIDTH = 1280  # The width of the Canvas rectangle on which we draw Pi
 HEIGHT = 800  # The height of the Canvas rectangle on which we draw Pi
 PIXEL_COUNT = 8 # Each digit of Pi is represented by a coloured rectangle of size PIXEL_COUNT by PIXEL_COUNT
